@@ -1,0 +1,20 @@
+.button{
+    padding: 6px;
+    border-radius: 10px;
+    font-size: 14px;
+    border: none;
+    background-color: rgb(1, 1, 40);
+    color: azure;
+    cursor: pointer;
+}
+
+.button:hover{
+    box-shadow: 0px 0px 12px 8px rgb(1, 1, 40, .3);
+    /* transition: 0.8s; */
+}
+
+.button:active{
+    background-color: azure;
+    color: rgb(1, 1, 40);
+}
+

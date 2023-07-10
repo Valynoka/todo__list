@@ -1,0 +1,8 @@
+.header__wrapper{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(1, 1, 40);
+    color: azure;
+}
